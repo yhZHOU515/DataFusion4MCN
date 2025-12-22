@@ -1,0 +1,203 @@
+#id	Twitter phrase	SNOMED description
+0	_ drug _ has me dodging snowflakes 	hallucinations 
+1	my hand tremors worse 	on examination - tremor outstretched hands 
+2	so efficient at work 	efficient 
+3	so efficient at work 	productivity at work 
+4	so unfocussed 	unable to concentrate 
+5	always being sleepy 	insomnia 
+6	can not focus 	unable to concentrate 
+7	just cleaned my entire apartment ... for no reason at all 	compulsive cleaning 
+8	cleaning is the only way to survive 	compulsive cleaning 
+9	awake for _ number _ days straight 	insomnia 
+10	pee for _ number _ hours straight without stopping 	increased frequency of urination 
+11	head feels like it 's about to explode 	headache 
+12	such bad moodswings omg 	mood swings 
+13	finished the paper and filling in the survey thing took like _ number _ minutes total 	productivity at work 
+14	ca n't even sit straight 	fidgeting 
+15	stabbed _ person _ _ number _ times 	homicide 
+16	guilty/sad/anxious 	anxiety 
+17	dick really really small 	small penis 
+18	ca n't eat 	loss of appetite 
+19	had me dodging parked cars like i 'm keanu reeves 	hallucinations 
+20	need the bastard to start kicking in ! 	drug tolerance 
+21	just my heart beat 	tachycardia 
+22	kitchen cleaned bathroom cleaned _ number _ loads of laundry washed and put away _ number _ projects done 	compulsive cleaning 
+23	just laying in bed for _ number _ hours 	insomnia 
+24	kept me up for days 	insomnia 
+25	stay up for way to long 	insomnia 
+26	`` wrote _ number _ papers , cleaned my room , baked a pie , and worked out all within a couple hours '' 	productivity at work 
+27	keeping me up 	insomnia 
+28	i have n't slept 	insomnia 
+29	ca n't sleep 	insomnia 
+30	wo n't be able to sleep 	insomnia 
+31	i wanted to die - 	suicidal 
+32	wiggin out a little bit 	fidgeting 
+33	feel my pulse in my feet 	pulse fast 
+34	heart is beating so frickin fast 	tachycardia 
+35	hard time concentrating 	unable to concentrate 
+36	made me sleep great 	good sleep pattern 
+37	_ drug _ had me folding my dirty laundry just to take it to the washer 	compulsive tidying 
+38	this double i 'm about to work 	productivity at work 
+39	buggin rn 	fidgeting 
+40	temper tantrums and tears 	feeling angry 
+41	keeping me going 	productivity at work 
+42	i have n't eaten yet 	loss of appetite 
+43	got me taping ripped pages in my book 	compulsive behavior 
+44	the most chipper person 	cheerful mood 
+45	i 'm happiest with _ drug _ 	cheerful mood 
+46	jacks u up big time 	focussed attention 
+47	triggered an addiction 	dependent drug abuse 
+48	damn mornings r hard 	fatigue 
+49	still tired as shit 	fatigue 
+50	been up _ number _ days 	insomnia 
+51	i need to take_drug _ to stay up 	awake 
+52	`` this morning , i did all my math labs , did all my roommates ' laundry , cooked breakfast , and ran here '' 	productivity at work 
+53	i was hungry earlier so i ate _ drug _ 	loss of appetite 
+54	desperate to fall asleep but unable to close your eyes 	insomnia 
+55	focus on studying 	focussed attention 
+56	i can focus 	focussed attention 
+57	let me sleep 	insomnia 
+58	'' _ drug _ got me wanting to do laundry , homework , dishes , and bake a cake all at once '' 	productivity at work 
+59	do n't want to fall asleep 	awake 
+60	'' _ drug_has me planning out everyday of the rest of my life , hour by hour '' 	productivity at work 
+61	things i have consumed today : _ number _ bottles of water _ number _ more bottles of water 	increased thirst 
+62	have n't eaten anything 	loss of appetite 
+63	i ca n't sleep 	insomnia 
+64	make your focus go up 	focussed attention 
+65	my hands shake too much for me to be able to do anything 	on examination - tremor outstretched hands 
+66	not sleeeeeeep 	insomnia 
+67	`` i might be able to '' `` sleep '' '' '' 	insomnia 
+68	i should be studying for but literally ca n't 	unable to concentrate 
+69	_ drug _ got me counting the bricks on the walkway 	compulsive behavior 
+70	_ drug _ got me doing squats at _ number _ am 	awake 
+71	need sleep 	insomnia 
+72	makes u skinny 	weight loss 
+73	_ drug_has me folding my laundry in mla format 	compulsive cleaning 
+74	_ drug _ helps me focus harder on everything 	focused attention 
+75	im still distracted 	unable to concentrate 
+76	i 'm still up . and wide awake . 	awake 
+77	_ drug _ has me cleaning everything 	compulsive cleaning 
+78	_ drug _ had me figuring out how much i paid for each fry 	compulsive behavior 
+79	_ drug _ makes my penis small : / 	small penis 
+80	_ drug _ got me washing dishes and shit 	compulsive cleaning 
+81	_ drug _ has me cleaning like ... _ url _ 	compulsive cleaning 
+82	_ drug _ has kicked in and my energy level is _ number _ right now 	increased energy 
+83	bloody tired still 	fatigue 
+84	_ drug _ has my body all kinda of confused ... 	clouded consciousness 
+85	actually wan na sleep 	insomnia 
+86	she ai n't really sleepin 	insomnia 
+87	i feel like super wired and jittery 	fidgeting 
+88	_ drug_had me literally running into random peoples rooms and ocd cleaning their stuff yesterday afternoon 	compulsive cleaning 
+89	has trouble paying attention to what 's goin on 	unable to concentrate 
+90	took _ drug _ to stay up 	awake 
+91	no appetite on _ drug _ 	hungry 
+92	i have the worst handwriting when i take _ drug _ 	on examination - tremor outstretched hands 
+93	heightens focus 	focused attention 
+94	_ drug _ has me making my roommates bed 	compulsive cleaning 
+95	i was like crazy cleaning everything 	compulsive cleaning 
+96	ca n't sleep 	insomnia 
+97	days without sleep 	insomnia 
+98	_ drug _ as a valid substitute for sleep 	insomnia 
+99	i start to get cold 	feels cold 
+100	i ca n't stop cleaning 	compulsive cleaning 
+101	makes me wan na do too many suicides 	suicidal 
+102	my concentration is so weak 	unable to concentrate 
+103	exhaustion 	fatigue 
+104	you feel nothing until _ drug _ wears off then it hits you like a brick wall 	fatigue 
+105	i ca n't stay focused 	unable to concentrate 
+106	i 'm mentally not into sleeping 	awake 
+107	_ drug _ got me memorizing my news feed 	focussed attention 
+108	i focus better 	focussed attention 
+109	developed shakes/tremors 	on examination - tremor outstretched hands 
+110	i feel like my brain is twitching 	fidgeting 
+111	took a whole full house episode 	compulsive behavior 
+112	take _ drug _ and update your linkedin profile with meticulous detail 	compulsive behavior 
+113	sleep is futile 	insomnia 
+114	had me reading the terms and conditions 	focussed attention 
+115	makes u not tired 	increased energy 
+116	emotional meltdown 	dysthymia 
+117	_ drug _ had me studying the effects of continental drift on early human ancestors 	focussed attention 
+118	still up i regret taking _ drug _ 	insomnia 
+119	i can be up all night 	awake 
+120	did n't want to fall asleep 	awake 
+121	going to focus 	focussed attention 
+122	all his senses are freaking out 	hyperesthesia of special senses 
+123	i just wrote a _ number _ page paper in less than _ number _ hours 	productivity at work 
+124	_ drug _ killed my libido 	lack or loss of sexual desire 
+125	_ drug _ kept my ass awake 	awake 
+126	wandering around in a daze 	clouded consciousness 
+127	just wrote a _ number _ word paper when it only needed tobe _ number _ 	productivity at work 
+128	i 'm going to make it through the night 	awake 
+129	makes it irritate me 	feeling irritable 
+130	_ drug _ had me researching the illuminati at 4 am 	focussed attention 
+131	_ drug _ got me focused like i got two brains 	focussed attention 
+132	my handwriting on _ drug _ is a hot mess 	on examination - tremor outstretched hands 
+133	ca n't even focus forreal 	unable to concentrate 
+134	i always end up like cleaning the whole house or doing all my laundry instead of studying 	compulsive cleaning 
+135	sitting in a chair while my hearts busy running a marathon 	tachycardia 
+136	_ drug _ had me gettin to the top of cardiac hill in _ number _ seconds 	increased energy 
+137	_ drug _ makes me have no appetite 	loss of appetite 
+138	_ drug _ clearly do n't want me to sleep 	insomnia 
+139	add productivity to your day 	productivity at work 
+140	too busy cleaning my room for hours 	compulsive cleaning 
+141	really want to sleep 	awake 
+142	getting shit done 	productivity at work 
+143	no sleep week 	insomnia 
+144	vacuuming my room at _ number _ am 	compulsive cleaning 
+145	my confidence is god like 	self-confidence 
+146	give me energy 	increased energy 
+147	now i ca n't orgasm 	lack of sexual desire 
+148	my head is pounding 	headache 
+149	interferes with having orgasms 	lack of sexual desire 
+150	about to have a heart attack 	tachycardia 
+151	drug addiction 	dependent drug abuse 
+152	gon na be awake for _ number days 	awake 
+153	had me going hard in the microsoft paint 	productivity at work 
+154	turns me into a crazy person 	mania 
+155	i feel psychotic 	psychotic disorder 
+156	kept me up all night 	insomnia 
+157	_ drug _ had me using a whole pack of notecards in _ number _ hour 	productivity at work 
+158	_ drug _ had me finishing bernsteins reading guide within _ number _ mins 	productivity at work 
+159	_ drug _ had me finishing homework for a class i 've yet to take 	productivity at work 
+160	wide awake shit 	awake 
+161	hallucinating and smelling colors 	hallucinations 
+162	_ drug _ does n't like me sleeping 	insomnia 
+163	it 's _ number am let me sleep 	insomnia 
+164	_ drug _ makes me pee my pants 	urinary incontinence 
+165	why am i still up 	insomnia 
+166	i do n't sleep 	insomnia 
+167	i 'm never going to sleep 	insomnia 
+168	i 'm so indecisive 	difficulty making decisions 
+169	_ drug _ had me brushing my teeth for _ number _ minutes 	compulsive behavior 
+170	my brain hurts 	headache 
+171	every little thing annoys me 	feeling agitated 
+172	i 've been up _ number _ days 	insomnia 
+173	ca n't stop cleaning 	compulsive cleaning 
+174	i smoke so many cigs 	tobacco smoking behavior - finding 
+175	weird cleaning impulse 	compulsive cleaning 
+176	_ drug _ had me figuring out the average number of times i blink everyday 	compulsive behavior 
+177	_ drug _ had me writing a book 	productivity at work 
+178	strokes 	cerebrovascular accident 
+179	_ drug _ just makes me shake more 	tremor 
+180	cotton mouth 	aptyalism 
+181	_ drug _ have my hands and whole body looking like one big parkinson 's disease 	tremor 
+182	zombie 	lethargy 
+183	panic attaks 	panic attack 
+184	sleep deprived 	exhaustion 
+185	makes me angrier 	feeling angry 
+186	i ca n't sleep 	insomnia 
+187	no appetite 	loss of appetite 
+188	tried to kill myself 	suicidal 
+189	_ drug _ got me doing squats at _ number _ am 	hyperactive behavior 
+190	dying of starvation 	hungry 
+191	terrible case of the flu 	influenza-like illness 
+192	'' _ drug _ , why wo n't you let me ejaculate ? '' 	abnormal sexual function 
+193	clear thought process 	creative thought 
+194	lack of sleep 	insomnia 
+195	scroll through the same news feeds over and over 	compulsive behavior 
+196	got me hyper 	hyperactive behavior 
+197	lack of emotional response 	flat affect 
+198	no way i 'm gettin any sleep tonight 	insomnia 
+199	never knew how much work could get done on one _ drug _ 	productivity at work 
+200	i ca n't focus 	unable to concentrate 
+
